@@ -1,4 +1,4 @@
-# Carlos Gevaerd Araujo
+# Carlos Eduardo Gevaerd Araujo
 
 ### DevOps Engineer | Cloud & Automation Specialist | CI/CD | Kubernetes | AWS Certified
 
