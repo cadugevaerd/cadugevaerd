@@ -72,7 +72,7 @@ Este repositório contém a configuração para executar um runner do GitHub Act
 ## 📫 Contato
 
 - **Email**: cadu.gevaerd@gmail.com
-- **Telefone**: +55 21 96935-8719
+- **Linkedin**: [Meu perfil](https://www.linkedin.com/in/carlos-gevaerd-araujo/)
 
 Sinta-se à vontade para me contatar para discutir ideias, colaborar em projetos ou apenas trocar uma ideia sobre DevOps e Cloud Computing!
 
