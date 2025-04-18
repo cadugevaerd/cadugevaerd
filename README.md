@@ -47,6 +47,9 @@ Chat GPT que utiliza input e outputs em áudio.
 ### 4. **[Chat PDF com Streamlit e Langchain](https://github.com/cadugevaerd/chat_pdf))**
 O Objetivo deste projeto é criar uma interface amigavel para o uso do Chat GPT em conversas de arquivos PDFs. Para isso, utilizaremos o framework Streamlit e o framework Langchain.
 
+### 5. **[GitHub Actions Runner in Docker](https://github.com/cadugevaerd/runner-github)**
+Este repositório contém a configuração para executar um runner do GitHub Actions dentro de um container Docker. Isso permite executar jobs do GitHub Actions em um ambiente isolado e consistente.
+
 ---
 
 ## 🎓 Formação
