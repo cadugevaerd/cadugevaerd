@@ -1,81 +1,104 @@
-# Carlos Eduardo Gevaerd Araujo
+## Carlos Eduardo Gevaerd Araujo
 
-### DevOps Engineer | Cloud & Automation Specialist | CI/CD | Kubernetes | AWS Certified
+### Engenheiro DevOps | Especialista em Cloud & Automação | AI Engineering | CI/CD | Kubernetes | AWS Certified
 
-Olá! Eu sou o Carlos Gevaerd, um engenheiro DevOps apaixonado por automação, Cloud Computing e práticas de integração contínua. No meu perfil, você encontrará projetos focados em automação de infraestrutura, orquestração de containers e otimização de operações através de pipelines CI/CD e ferramentas como Kubernetes, Docker, Terraform e muito mais!
+Olá\! Sou o Carlos Gevaerd, um **engenheiro DevOps** com paixão por **automação**, **Cloud Computing** e práticas de **integração contínua**. Atualmente, estou expandindo meu foco para a **Engenharia de IA**, explorando como as práticas de DevOps podem otimizar o ciclo de vida de aplicações de Inteligência Artificial.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gevaerd-araujo) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadugevaerd)
+No meu perfil, você encontrará projetos que unem essas paixões, focados em:
 
----
+  * **Automação de infraestrutura e orquestração de containers**: utilizando ferramentas como Kubernetes, Docker e Terraform.
+  * **Otimização de operações através de pipelines CI/CD**: garantindo entregas ágeis e seguras.
+  * **Aplicações de IA**: explorando o uso de frameworks como Streamlit e Langchain para criar soluções inteligentes e eficientes.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64d04f210d755ccbebe4d1a3?variant=dark)](https://roadmap.sh)
+[](https://www.linkedin.com/in/carlos-gevaerd-araujo) [](https://github.com/cadugevaerd)
 
----
+-----
 
-## 🚀 Sobre mim
+### Minha Jornada de Aprendizado Visual em DevOps e IA
 
-Sou um profissional com sólida experiência em DevOps, trabalhando com automação de infraestrutura e orquestração de containers para promover eficiência e inovação. Meu foco é em soluções ágeis e seguras, utilizando Cloud (AWS e Azure) e práticas de Infraestrutura como Código (IaC).
+Aqui está o meu **roadmap.sh**, uma representação visual da minha dedicação em aprimorar continuamente minhas habilidades em **DevOps**, **Engenharia de IA**, **Python** e **Linux**. Ele destaca as principais trilhas de conhecimento que busco para aplicar as melhores práticas em meus projetos.
 
-Atualmente, estou aplicando minhas habilidades na **Civil Master Engenharia em Altura**, automatizando pipelines CI/CD e gerenciando infraestruturas em cloud para garantir escalabilidade e resiliência.
+[![roadmap.sh](https://roadmap.sh/card/wide/64d04f210d755ccbebe4d1a3?variant=dark&roadmaps=devops%2Cai-engineer%2Cpython%2Clinux)](https://roadmap.sh)
 
----
+-----
+
+## 🚀 Sobre Mim
+
+Sou um profissional com sólida experiência em **DevOps**, focado em automação de infraestrutura e orquestração de containers para promover eficiência e inovação. Minha busca por soluções ágeis e seguras se estende agora à **Engenharia de IA**, onde aplico minhas habilidades em Cloud (AWS e Azure) e práticas de Infraestrutura como Código (IaC) para otimizar o desenvolvimento e deployment de sistemas inteligentes.
+
+Atualmente, estou aplicando minhas habilidades na **Civil Master Engenharia em Altura**, automatizando pipelines CI/CD e gerenciando infraestruturas em cloud para garantir escalabilidade e resiliência. Além disso, estou sempre buscando aprimorar minhas habilidades em IA, com o objetivo de construir e implementar soluções inovadoras que unem o melhor dos mundos DevOps e de Inteligência Artificial.
+
+-----
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Cloud**: AWS, Azure
-- **CI/CD**: GitHub Actions, Jenkins, GitLab CI
-- **Containers**: Docker, Kubernetes
-- **Infraestrutura como Código**: Terraform, Ansible
-- **Monitoramento**: Zabbix
-- **Outras**: Linux, Windows Server, Python, Bash
+Minhas principais ferramentas e tecnologias incluem:
 
----
+  * **Cloud**: AWS, Azure, Google Cloud.
+  * **CI/CD**: GitHub Actions, Jenkins, GitLab CI
+  * **Containers**: Docker, Kubernetes
+  * **Infraestrutura como Código**: Terraform, Ansible
+  * **Monitoramento**: Zabbix
+  * **IA Enginner**: Streamlit, Langchain, LlamaIdex, RAG, etc.
+  * **Outras**: Linux, Windows Server, Python, Bash
 
-## 🌟 Projetos em Destaque
+-----
 
-Aqui estão alguns dos projetos mais interessantes nos quais estou trabalhando:
+## 🌟 Projetos em Destaque: Onde DevOps Encontra a IA
 
-### 1. **[Chat GPT Rodando com Streamlit](https://github.com/cadugevaerd/chat_gpt_streamlit)**
-Criação de uma réplica do Chat GPT utilizando Streamlit e integrando com a API oficial, permitindo a seleção entre todos os modelos disponíveis, incluindo o GPT-4.
+Confira alguns dos projetos que demonstram minha expertise em DevOps e meu crescente interesse em Engenharia de IA. Para cada um, adicionei uma **"Descrição Visual"** para facilitar a compreensão e a conexão com o que você já conhece:
 
-### 2. **[Implementação de Aplicação Streamlit com Terraform na AWS](https://github.com/cadugevaerd/terraform_fifa2023_balance)**
-Este repositório contém o código Terraform para a criação de uma infraestrutura na AWS, utilizando o Amazon ECS (Elastic Container Service) com balanceamento de carga distribuído em três zonas de disponibilidade diferentes.
+### 1\. **[Chat GPT Rodando com Streamlit](https://github.com/cadugevaerd/chat_gpt_streamlit)**
 
-### 3. **[Audio GPT](https://github.com/cadugevaerd/audio_gpt)**
-Chat GPT que utiliza input e outputs em áudio.
+**Descrição Visual**: Imagine uma tela de chat intuitiva, como o ChatGPT, mas que você pode rodar localmente e personalizar. Este projeto cria uma réplica funcional, conectada à API oficial do ChatGPT, permitindo a seleção de diferentes modelos, incluindo o poderoso GPT-4.
+**Relevância (DevOps/AI Engineering)**: Demonstra habilidades em integração de APIs, desenvolvimento de aplicações com Streamlit para prototipagem rápida de interfaces de IA e familiaridade com modelos de linguagem.
 
-### 4. **[Chat PDF com Streamlit e Langchain](https://github.com/cadugevaerd/chat_pdf))**
-O Objetivo deste projeto é criar uma interface amigavel para o uso do Chat GPT em conversas de arquivos PDFs. Para isso, utilizaremos o framework Streamlit e o framework Langchain.
+### 2\. **[Implementação de Aplicação Streamlit com Terraform na AWS](https://github.com/cadugevaerd/terraform_fifa2023_balance)**
 
-### 5. **[GitHub Actions Runner in Docker](https://github.com/cadugevaerd/runner-github)**
-Este repositório contém a configuração para executar um runner do GitHub Actions dentro de um container Docker. Isso permite executar jobs do GitHub Actions em um ambiente isolado e consistente.
+**Descrição Visual**: Pense em um diagrama de nuvem robusto e escalável, com setas indicando o fluxo de dados entre componentes. Este projeto utiliza **Terraform** para orquestrar uma infraestrutura completa na **AWS**, com Amazon ECS e balanceamento de carga distribuído em múltiplas zonas de disponibilidade. É a infraestrutura perfeita para hospedar suas aplicações, inclusive as de IA.
+**Relevância (DevOps/AI Engineering)**: Exemplo claro de **Infraestrutura como Código (IaC)**, provisionamento de ambientes escaláveis e resilientes para aplicações conteinerizadas, essencial para deployment de modelos de IA em produção.
 
----
+### 3\. **[Audio GPT](https://github.com/cadugevaerd/audio_gpt)**
+
+**Descrição Visual**: Uma pessoa falando e o ChatGPT respondendo em voz alta\! Este projeto transforma a interação com o ChatGPT, permitindo inputs e outputs em áudio, tornando a experiência mais acessível e dinâmica.
+**Relevância (DevOps/AI Engineering)**: Explora a integração de tecnologias de fala para aplicações de IA, fundamental para criar interfaces de usuário mais ricas e inclusivas.
+
+### 4\. **[Chat PDF com Streamlit e Langchain](https://github.com/cadugevaerd/chat_pdf))**
+
+**Descrição Visual**: Imagine um assistente virtual que "lê" seus documentos PDF e responde às suas perguntas sobre eles. Este projeto cria uma interface amigável para interagir com PDFs usando o poder do ChatGPT, tudo facilitado pelos frameworks Streamlit e Langchain.
+**Relevância (DevOps/AI Engineering)**: Destaca a utilização de frameworks como Langchain para construção de aplicações de IA complexas, processamento de linguagem natural (NLP) e interação com grandes volumes de dados textuais.
+
+### 5\. **[GitHub Actions Runner in Docker](https://github.com/cadugevaerd/runner-github)**
+
+**Descrição Visual**: Um ciclo de CI/CD fluido e automatizado, com ícones de código, containers e deploy. Este repositório configura um runner do GitHub Actions dentro de um container Docker, garantindo que seus pipelines de CI/CD rodem em um ambiente isolado, consistente e facilmente replicável.
+**Relevância (DevOps/AI Engineering)**: Demonstra expertise em **CI/CD** e conteinerização, práticas cruciais para automatizar testes e deployments de código, incluindo modelos de IA e suas dependências.
+
+-----
 
 ## 🎓 Formação
 
-- **Especialização em DevOps & Continuous Software Engineering** - PUC Minas (2024 - 2025)
-- **Tecnólogo em Rede de Computadores** - Estácio (2018 - 2020)
+  * **Pós-graduação em Engenharia DevOps & Continuous Software Engineering** - PUC Minas (2024 - 2025)
+  * **Tecnólogo em Rede de Computadores** - Estácio (2018 - 2020)
 
----
+-----
 
 ## 🏅 Certificações
 
-- AWS Certified Cloud Practitioner
-- Formação em Integração Contínua e Entrega Contínua
-- Formação em Infraestrutura como Código
-- Python Starter
-- ITIL Foundation
+  * AWS Certified Cloud Practitioner
+  * Formação em Integração Contínua e Entrega Contínua
+  * Formação em Infraestrutura como Código
+  * Python Starter
+  * ITIL Foundation
 
----
+-----
 
 ## 📫 Contato
 
-- **Email**: cadu.gevaerd@gmail.com
-- **Linkedin**: [Meu perfil](https://www.linkedin.com/in/carlos-gevaerd-araujo/)
+  * **Email**: cadu.gevaerd@gmail.com
+  * **Linkedin**: [Meu perfil](https://www.linkedin.com/in/carlos-gevaerd-araujo/)
 
-Sinta-se à vontade para me contatar para discutir ideias, colaborar em projetos ou apenas trocar uma ideia sobre DevOps e Cloud Computing!
+Sinta-se à vontade para me contatar para discutir ideias, colaborar em projetos ou apenas trocar uma ideia sobre DevOps, Cloud Computing e o empolgante mundo da Engenharia de IA\!
 
----
+-----
 
-Obrigado por visitar o meu perfil no GitHub!
+Obrigado por visitar o meu perfil no GitHub\!
