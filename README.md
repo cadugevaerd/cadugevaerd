@@ -18,7 +18,7 @@ No meu perfil, você encontrará projetos que unem essas paixões, focados em:
 
 Aqui está o meu **roadmap.sh**, uma representação visual da minha dedicação em aprimorar continuamente minhas habilidades em **DevOps**, **Engenharia de IA**, **Python** e **Linux**. Ele destaca as principais trilhas de conhecimento que busco para aplicar as melhores práticas em meus projetos.
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64d04f210d755ccbebe4d1a3?variant=dark&roadmaps=devops%2Cai-engineer%2Cpython%2Clinux)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64d04f210d755ccbebe4d1a3?variant=dark&roadmaps=devops%2Cai-engineer%2Cpython%2Clinux)](https://roadmap.sh)
 
 -----
 
