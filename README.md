@@ -70,16 +70,23 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 
 ### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker--compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🤖 AI & ML Tools
+### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🤖 AI & ML Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-121212?style=for-the-badge)
+![Agno](https://img.shields.io/badge/🔮%20Agno-6366F1?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️%20LangGraph-10B981?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -161,7 +168,6 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 - ✅ **AWS Certified Cloud Practitioner**
 - ✅ **Formação em Integração Contínua e Entrega Contínua**
 - ✅ **Formação em Infraestrutura como Código**
-- ✅ **Python Starter**
 - ✅ **ITIL Foundation**
 
 ---
