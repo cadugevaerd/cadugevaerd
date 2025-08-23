@@ -1,104 +1,198 @@
-## Carlos Eduardo Gevaerd Araujo
+# 👋 Olá! Sou Carlos Eduardo Gevaerd Araujo
 
-### Engenheiro DevOps | Especialista em Cloud & Automação | AI Engineering | CI/CD | Kubernetes | AWS Certified
+<div align="center">
 
-Olá\! Sou o Carlos Gevaerd, um **engenheiro DevOps** com paixão por **automação**, **Cloud Computing** e práticas de **integração contínua**. Atualmente, estou expandindo meu foco para a **Engenharia de IA**, explorando como as práticas de DevOps podem otimizar o ciclo de vida de aplicações de Inteligência Artificial.
+![Profile Views](https://komarev.com/ghpvc/?username=cadugevaerd&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/cadugevaerd?style=social)
 
-No meu perfil, você encontrará projetos que unem essas paixões, focados em:
+### 🚀 Engenheiro DevOps | ☁️ Cloud Specialist | 🤖 AI Engineering Enthusiast | 📜 AWS Certified
 
-  * **Automação de infraestrutura e orquestração de containers**: utilizando ferramentas como Kubernetes, Docker e Terraform.
-  * **Otimização de operações através de pipelines CI/CD**: garantindo entregas ágeis e seguras.
-  * **Aplicações de IA**: explorando o uso de frameworks como Streamlit e Langchain para criar soluções inteligentes e eficientes.
+</div>
 
-[](https://www.linkedin.com/in/carlos-gevaerd-araujo) [](https://github.com/cadugevaerd)
+Olá! Sou o **Carlos Gevaerd**, um engenheiro DevOps apaixonado por **automação**, **Cloud Computing** e práticas de **integração contínua**. Atualmente, estou expandindo meu foco para a **Engenharia de IA**, explorando como as práticas de DevOps podem otimizar o ciclo de vida de aplicações de Inteligência Artificial.
 
------
+## 🎯 Meu Foco
 
-### Minha Jornada de Aprendizado Visual em DevOps e IA
+- 🏗️ **Automação de infraestrutura** com Kubernetes, Docker e Terraform
+- ⚡ **Pipelines CI/CD eficientes** para entregas ágeis e seguras
+- 🤖 **Aplicações de IA** usando Streamlit, Langchain e tecnologias modernas
+- ☁️ **Soluções Cloud-native** escaláveis e resilientes
 
-Aqui está o meu **roadmap.sh**, uma representação visual da minha dedicação em aprimorar continuamente minhas habilidades em **DevOps**, **Engenharia de IA**, **Python** e **Linux**. Ele destaca as principais trilhas de conhecimento que busco para aplicar as melhores práticas em meus projetos.
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gevaerd-araujo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadugevaerd)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadu.gevaerd@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadugevaerd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadugevaerd&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Minha Jornada de Aprendizado Visual
+
+Aqui está o meu **roadmap.sh**, uma representação visual da minha dedicação em aprimorar continuamente minhas habilidades em **DevOps**, **Engenharia de IA**, **Python** e **Linux**. 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64d04f210d755ccbebe4d1a3?variant=dark&roadmaps=devops%2Cai-engineer%2Cpython%2Clinux)](https://roadmap.sh)
 
------
+---
 
 ## 🚀 Sobre Mim
 
 Sou um profissional com sólida experiência em **DevOps**, focado em automação de infraestrutura e orquestração de containers para promover eficiência e inovação. Minha busca por soluções ágeis e seguras se estende agora à **Engenharia de IA**, onde aplico minhas habilidades em Cloud (AWS e Azure) e práticas de Infraestrutura como Código (IaC) para otimizar o desenvolvimento e deployment de sistemas inteligentes.
 
-Atualmente, estou aplicando minhas habilidades na **Civil Master Engenharia em Altura**, automatizando pipelines CI/CD e gerenciando infraestruturas em cloud para garantir escalabilidade e resiliência. Além disso, estou sempre buscando aprimorar minhas habilidades em IA, com o objetivo de construir e implementar soluções inovadoras que unem o melhor dos mundos DevOps e de Inteligência Artificial.
+Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas em cloud para garantir escalabilidade e resiliência. Além disso, estou sempre buscando aprimorar minhas habilidades em IA, com o objetivo de construir e implementar soluções inovadoras que unem o melhor dos mundos DevOps e de Inteligência Artificial.
 
------
+---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
-Minhas principais ferramentas e tecnologias incluem:
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-  * **Cloud**: AWS, Azure, Google Cloud.
-  * **CI/CD**: GitHub Actions, Jenkins, GitLab CI
-  * **Containers**: Docker, Kubernetes
-  * **Infraestrutura como Código**: Terraform, Ansible
-  * **Monitoramento**: Zabbix
-  * **IA Enginner**: Streamlit, Langchain, LlamaIdex, RAG, etc.
-  * **Outras**: Linux, Windows Server, Python, Bash
+### 🔄 DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
------
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🌟 Projetos em Destaque: Onde DevOps Encontra a IA
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-Confira alguns dos projetos que demonstram minha expertise em DevOps e meu crescente interesse em Engenharia de IA. Para cada um, adicionei uma **"Descrição Visual"** para facilitar a compreensão e a conexão com o que você já conhece:
+### 🤖 AI & ML Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-121212?style=for-the-badge)
 
-### 1\. **[Chat GPT Rodando com Streamlit](https://github.com/cadugevaerd/chat_gpt_streamlit)**
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-**Descrição Visual**: Imagine uma tela de chat intuitiva, como o ChatGPT, mas que você pode rodar localmente e personalizar. Este projeto cria uma réplica funcional, conectada à API oficial do ChatGPT, permitindo a seleção de diferentes modelos, incluindo o poderoso GPT-4.
-**Relevância (DevOps/AI Engineering)**: Demonstra habilidades em integração de APIs, desenvolvimento de aplicações com Streamlit para prototipagem rápida de interfaces de IA e familiaridade com modelos de linguagem.
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
 
-### 2\. **[Implementação de Aplicação Streamlit com Terraform na AWS](https://github.com/cadugevaerd/terraform_fifa2023_balance)**
+---
 
-**Descrição Visual**: Pense em um diagrama de nuvem robusto e escalável, com setas indicando o fluxo de dados entre componentes. Este projeto utiliza **Terraform** para orquestrar uma infraestrutura completa na **AWS**, com Amazon ECS e balanceamento de carga distribuído em múltiplas zonas de disponibilidade. É a infraestrutura perfeita para hospedar suas aplicações, inclusive as de IA.
-**Relevância (DevOps/AI Engineering)**: Exemplo claro de **Infraestrutura como Código (IaC)**, provisionamento de ambientes escaláveis e resilientes para aplicações conteinerizadas, essencial para deployment de modelos de IA em produção.
+## 🌟 Projetos em Destaque
 
-### 3\. **[Audio GPT](https://github.com/cadugevaerd/audio_gpt)**
+### 🤖 Projetos de IA
 
-**Descrição Visual**: Uma pessoa falando e o ChatGPT respondendo em voz alta\! Este projeto transforma a interação com o ChatGPT, permitindo inputs e outputs em áudio, tornando a experiência mais acessível e dinâmica.
-**Relevância (DevOps/AI Engineering)**: Explora a integração de tecnologias de fala para aplicações de IA, fundamental para criar interfaces de usuário mais ricas e inclusivas.
+#### 1. **[Chat GPT com Streamlit](https://github.com/cadugevaerd/chat_gpt_streamlit)**
+> 💬 **Interface conversacional intuitiva** com ChatGPT usando Streamlit
+- Integração completa com API OpenAI
+- Seleção de diferentes modelos (GPT-3.5, GPT-4)
+- Interface responsiva e amigável
 
-### 4\. **[Chat PDF com Streamlit e Langchain](https://github.com/cadugevaerd/chat_pdf))**
+#### 2. **[Audio GPT](https://github.com/cadugevaerd/audio_gpt)**
+> 🎤 **Interação por voz** com ChatGPT
+- Input e output de áudio
+- Experiência conversacional natural
+- Acessibilidade aprimorada
 
-**Descrição Visual**: Imagine um assistente virtual que "lê" seus documentos PDF e responde às suas perguntas sobre eles. Este projeto cria uma interface amigável para interagir com PDFs usando o poder do ChatGPT, tudo facilitado pelos frameworks Streamlit e Langchain.
-**Relevância (DevOps/AI Engineering)**: Destaca a utilização de frameworks como Langchain para construção de aplicações de IA complexas, processamento de linguagem natural (NLP) e interação com grandes volumes de dados textuais.
+#### 3. **[Chat PDF com Langchain](https://github.com/cadugevaerd/chat_pdf)**
+> 📄 **Assistente virtual para documentos PDF**
+- Processamento inteligente de PDFs
+- Respostas contextuais usando Langchain
+- Interface Streamlit intuitiva
 
-### 5\. **[GitHub Actions Runner in Docker](https://github.com/cadugevaerd/runner-github)**
+### ☁️ Projetos de Infraestrutura
 
-**Descrição Visual**: Um ciclo de CI/CD fluido e automatizado, com ícones de código, containers e deploy. Este repositório configura um runner do GitHub Actions dentro de um container Docker, garantindo que seus pipelines de CI/CD rodem em um ambiente isolado, consistente e facilmente replicável.
-**Relevância (DevOps/AI Engineering)**: Demonstra expertise em **CI/CD** e conteinerização, práticas cruciais para automatizar testes e deployments de código, incluindo modelos de IA e suas dependências.
+#### 4. **[Deploy Streamlit na AWS com Terraform](https://github.com/cadugevaerd/terraform_fifa2023_balance)**
+> 🏗️ **Infraestrutura completa na AWS**
+- Terraform para IaC
+- Amazon ECS com load balancing
+- Multi-AZ deployment
+- Escalabilidade automática
 
------
+#### 5. **[K3s Configs - Automação de Upgrade Kubernetes](https://github.com/cadugevaerd/k3s-configs)**
+> 🚀 **Sistema completo de upgrade para clusters K3s**
+- Automação zero-downtime para clusters multi-node
+- Scripts de validação pré e pós-upgrade com 20+ verificações
+- Sistema de backup automático e rollback seguro
+- Suporte para single-node e multi-node environments
+- Monitoramento em tempo real do processo de upgrade
 
-## 🎓 Formação
+#### 6. **[GitHub Actions Runner Docker](https://github.com/cadugevaerd/runner-github)**
+> 🔄 **CI/CD containerizado**
+- Runner GitHub Actions em Docker
+- Ambiente isolado e consistente
+- Fácil replicação e manutenção
 
-  * **Pós-graduação em Engenharia DevOps & Continuous Software Engineering** - PUC Minas (2024 - 2025)
-  * **Tecnólogo em Rede de Computadores** - Estácio (2018 - 2020)
+---
 
------
+## 🎓 Formação Acadêmica
+
+🎯 **Pós-graduação em Engenharia DevOps & Continuous Software Engineering**  
+📍 PUC Minas (2024 - 2025)
+
+🎯 **Tecnólogo em Rede de Computadores**  
+📍 Estácio (2018 - 2020)
+
+---
 
 ## 🏅 Certificações
 
-  * AWS Certified Cloud Practitioner
-  * Formação em Integração Contínua e Entrega Contínua
-  * Formação em Infraestrutura como Código
-  * Python Starter
-  * ITIL Foundation
+<div align="center">
 
------
+![AWS](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-Foundation-purple?style=for-the-badge)
 
-## 📫 Contato
+</div>
 
-  * **Email**: cadu.gevaerd@gmail.com
-  * **Linkedin**: [Meu perfil](https://www.linkedin.com/in/carlos-gevaerd-araujo/)
+- ✅ **AWS Certified Cloud Practitioner**
+- ✅ **Formação em Integração Contínua e Entrega Contínua**
+- ✅ **Formação em Infraestrutura como Código**
+- ✅ **Python Starter**
+- ✅ **ITIL Foundation**
 
-Sinta-se à vontade para me contatar para discutir ideias, colaborar em projetos ou apenas trocar uma ideia sobre DevOps, Cloud Computing e o empolgante mundo da Engenharia de IA\!
+---
 
------
+## 🤝 Vamos Construir Algo Incrível Juntos?
 
-Obrigado por visitar o meu perfil no GitHub\!
+<div align="center">
+
+Se você tem interesse em **DevOps**, **Cloud Computing** ou **Engenharia de IA**, adoraria conversar!
+
+💡 **Discutir ideias inovadoras** | 🚀 **Colaborar em projetos** | 🎯 **Compartilhar conhecimento**
+
+### 📫 Entre em Contato
+
+<a href="mailto:cadu.gevaerd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/carlos-gevaerd-araujo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+**Vamos conectar e transformar ideias em realidade! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Obrigado por visitar meu perfil!** ⭐
+
+*"Automatize tudo, monitore sempre, falhe com segurança ⚙️"*
+
+</div>
