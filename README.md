@@ -121,16 +121,23 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 - Respostas contextuais usando Langchain
 - Interface Streamlit intuitiva
 
+#### 4. **[LLM as a Judge - Avaliador de Modelos de IA](https://github.com/cadugevaerd/llm-as-a-judge-api)**
+> ⚖️ **Sistema de avaliação e comparação de LLMs**
+- Arquitetura "Judge" para avaliação objetiva de respostas
+- Suporte a múltiplos provedores de LLM via OpenRouter
+- Processamento em lote com estatísticas de performance
+- Deployment production-ready com Docker e Kubernetes (Helm)
+
 ### ☁️ Projetos de Infraestrutura
 
-#### 4. **[Deploy Streamlit na AWS com Terraform](https://github.com/cadugevaerd/terraform_fifa2023_balance)**
+#### 5. **[Deploy Streamlit na AWS com Terraform](https://github.com/cadugevaerd/terraform_fifa2023_balance)**
 > 🏗️ **Infraestrutura completa na AWS**
 - Terraform para IaC
 - Amazon ECS com load balancing
 - Multi-AZ deployment
 - Escalabilidade automática
 
-#### 5. **[K3s Configs - Automação de Upgrade Kubernetes](https://github.com/cadugevaerd/k3s-configs)**
+#### 6. **[K3s Configs - Automação de Upgrade Kubernetes](https://github.com/cadugevaerd/k3s-configs)**
 > 🚀 **Sistema completo de upgrade para clusters K3s**
 - Automação zero-downtime para clusters multi-node
 - Scripts de validação pré e pós-upgrade com 20+ verificações
@@ -138,7 +145,7 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 - Suporte para single-node e multi-node environments
 - Monitoramento em tempo real do processo de upgrade
 
-#### 6. **[GitHub Actions Runner Docker](https://github.com/cadugevaerd/runner-github)**
+#### 7. **[GitHub Actions Runner Docker](https://github.com/cadugevaerd/runner-github)**
 > 🔄 **CI/CD containerizado**
 - Runner GitHub Actions em Docker
 - Ambiente isolado e consistente
