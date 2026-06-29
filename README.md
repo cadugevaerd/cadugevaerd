@@ -32,9 +32,9 @@ Olá! Sou o **Carlos Gevaerd**, um engenheiro DevOps apaixonado por **automaçã
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadugevaerd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cadugevaerd&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadugevaerd&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cadugevaerd&theme=tokyonight)
 
 </div>
 
