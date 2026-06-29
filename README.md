@@ -68,10 +68,17 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![AG-UI](https://img.shields.io/badge/AG--UI-2563EB?style=for-the-badge)
 ![CopilotKit](https://img.shields.io/badge/CopilotKit-0F172A?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-6366F1?style=for-the-badge)
+![LLM Evals](https://img.shields.io/badge/LLM%20Evals-0EA5E9?style=for-the-badge)
 
 ### ☁️ Cloud, Serverless & Data
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
@@ -101,14 +108,24 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🌐 Frontend & Agent UIs
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
 ![AG-UI Protocol](https://img.shields.io/badge/AG--UI%20Protocol-2563EB?style=for-the-badge)
+
+### 🧪 Browser & Web Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Browserless](https://img.shields.io/badge/Browserless-121212?style=for-the-badge)
+![Chrome DevTools Protocol](https://img.shields.io/badge/Chrome%20DevTools%20Protocol-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![noVNC / VNC](https://img.shields.io/badge/noVNC%20%2F%20VNC-7C3AED?style=for-the-badge)
 
 ### 📊 Observability, FinOps & Systems
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
