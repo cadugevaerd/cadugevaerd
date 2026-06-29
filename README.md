@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cadugevaerd&color=blue&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/cadugevaerd?style=social)
 
-### 🚀 Engenheiro DevOps | ☁️ Cloud Specialist | 🤖 AI Engineering Enthusiast | 📜 AWS Certified
+### 🚀 Engenheiro DevOps | ☁️ Cloud Specialist | 🤖 AI Engineering Specialist | 📜 AWS Certified
 
 </div>
 
