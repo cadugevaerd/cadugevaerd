@@ -42,7 +42,7 @@ Olá! Sou o **Carlos Gevaerd**, um engenheiro DevOps apaixonado por **automaçã
 
 ## 🎓 Minha Jornada de Aprendizado Visual
 
-Aqui está o meu **roadmap.sh**, uma representação visual da minha dedicação em aprimorar continuamente minhas habilidades em **DevOps**, **Engenharia de IA**, **Python** e **Linux**. 
+Aqui está o meu **roadmap.sh**, uma representação visual da minha dedicação em aprimorar continuamente minhas habilidades em **DevOps**, **Engenharia de IA**, **Python** e **Linux**.
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64d04f210d755ccbebe4d1a3?variant=dark&roadmaps=devops%2Cai-engineer%2Cpython%2Clinux)](https://roadmap.sh)
 
@@ -150,6 +150,12 @@ Atualmente, dedico-me a automatizar pipelines CI/CD e gerenciar infraestruturas 
 - Runner GitHub Actions em Docker
 - Ambiente isolado e consistente
 - Fácil replicação e manutenção
+
+#### 8. **[Tailscale Userspace Proxy](https://github.com/cadugevaerd/tailscale-userspace-proxy)**
+> 🔐 **Proxy SOCKS5/HTTP via Tailscale em modo userspace para ambientes restritos**
+- Executa `tailscale/tailscale` em Docker sem depender de `/dev/net/tun`
+- Expõe proxy local SOCKS5/HTTP para acesso seguro a serviços privados da tailnet
+- CLI Python instalável com `uv` e bootstrap simples para Claude Cowork, CI e acesso remoto
 
 ---
 
