@@ -46,9 +46,13 @@ A community extension for GitHub Spec Kit that adds post-build quality gates to 
 - **Review:** correctness, readability, architecture, security, and performance.
 - **Ship:** GO / NO-GO readiness decision with checklist and rollback plan.
 
-### 4. [Agent Skills Ecosystem](https://github.com/cadugevaerd/claude-skills)
+### 4. [Claude Code Plugin Marketplace](https://github.com/cadugevaerd/claude-skills)
 
-Reusable, selectively installable Agent Skills for Claude Code and Codex workflows—focused on turning repeatable engineering practices into portable tooling.
+A public marketplace of reusable Agent Skills and specialized subagents for Claude Code, with selective installation and portable workflows for Prompt Engineering, LangSmith evaluations, debugging, review, and delivery quality.
+
+### 5. [Codex Plugin Marketplace](https://github.com/cadugevaerd/codex-skills)
+
+A public plugin marketplace for Codex that packages reusable engineering skills and custom agents, including dedicated Prompt Engineering, evaluation, and independent audit roles.
 
 ## Selected Platform Engineering
 
